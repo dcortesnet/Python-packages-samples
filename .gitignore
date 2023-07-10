@@ -1,0 +1,76 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caché de Jupyter Notebook
+.ipynb_checkpoints/
+
+# Directorio de entorno virtual (por ejemplo, virtualenv, pipenv, etc.)
+venv/
+env/
+
+# Dependencias instaladas por pip
+# Asegúrate de ajustar esto según tus necesidades
+# Por ejemplo, si usas Pipenv:
+# /Pipfile
+# /Pipfile.lock
+
+# Entorno de desarrollo
+.env
+
+# Archivo de registro (si aplicable)
+*.log
+
+# Directorio de compilación
+/build/
+
+# Archivo generado por setuptools
+*.egg-info/
+
+# Carpeta de distribución
+/dist/
+
+# Carpeta de construcción de la documentación
+/docs/_build/
+
+# Carpeta de archivos generados por linters y formateadores
+/.mypy_cache/
+/.pytest_cache/
+/.vscode/
+/.idea/
+
+# Archivo de configuración local (por ejemplo, para PyCharm)
+/.idea/workspace.xml
+
+# Archivos de configuración local para diversos editores/IDEs
+*.{swp,~,bak}
+
+# Archivos de configuración específicos de plataforma
+.DS_Store
+Thumbs.db
+
+# Archivos de registro de pruebas unitarias
+/nosetests.xml
+/junit.xml
+
+# Carpeta de cobertura (si se genera)
+/.coverage
+.coverage
+
+# Archivos generados por la herramienta de construcción
+/build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+
+# Archivo de configuración de ambiente local
+.env.local
+.env.*.local
+
+# Archivos de respaldo y temporales
+*.bak
+*.swp
+*.tmp
+*~
