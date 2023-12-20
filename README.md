@@ -1,4 +1,4 @@
-# Python samples &middot; ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+# Python packages samples &middot; ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 Repository with examples, basic exercises and scripts in Python.
 Converter json to csv, compressed files, http request, URL Shortener, Logging etc.
